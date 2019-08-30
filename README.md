@@ -1,6 +1,6 @@
 This repository contains code for my blog post:  
 
-Files present:
+Files present:  
 `bare_bones_asr.py`:  
 * code for the neural network explained in the blog  
 * code for loading `sample.wav` file and creating its spectrogram  
