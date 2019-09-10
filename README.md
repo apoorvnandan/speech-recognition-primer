@@ -1,4 +1,4 @@
-This repository contains code for my blog post: https://towardsdatascience.com/hello-world-in-speech-recognition-b2f43b6c5871?source=friends_link&sk=39c0b0d8d3655428f8273e7d2d466eca
+This repository contains code for [my blog post](https://towardsdatascience.com/hello-world-in-speech-recognition-b2f43b6c5871?source=friends_link&sk=39c0b0d8d3655428f8273e7d2d466eca)
 
 Note: This code uses tensorflow 2.0
 
